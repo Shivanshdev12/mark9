@@ -1,10 +1,16 @@
+* {
+  text-align: center;
+  background-color: #efefef;
+}
+
 .App {
   text-align: center;
+
 }
 
 .btn {
   padding: 0.5rem;
-  border-radius: 2px;
+  border-radius: 5px;
   margin: 1rem;
   border: 1px black;
   background-color: skyblue;
@@ -18,7 +24,7 @@ li {
   list-style: none;
   border: 1px solid;
   border-radius: 5px;
-  text-align: left;
+  text-align: center;
   padding: 1rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -26,5 +32,4 @@ li {
 
 ul {
   width: 80%;
-  text-align: center;
 }
